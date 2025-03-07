@@ -1,0 +1,4 @@
+Flask==2.1.1
+opencv-python==4.5.5.64
+ultralytics==8.0.39
+onnxruntime==1.11.1
