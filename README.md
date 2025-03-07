@@ -1,4 +1,4 @@
-Here’s a description you can use for your GitHub project, along with the `requirements.txt` file:
+
 
 ---
 
@@ -40,15 +40,12 @@ This app serves as an end-to-end object detection solution, from data upload to 
 
 ### Requirements
 
-- Python 3.x
+- Python 3.12
 - Flask
 - OpenCV
-- ultralytics (for YOLOv5)
+- ultralytics (for YOLOv11)
 - ONNX Runtime
-- Flask==2.1.1
-- opencv-python==4.5.5.64
-- ultralytics==8.0.39
-- onnxruntime==1.11.1
+
 ---
 
 
